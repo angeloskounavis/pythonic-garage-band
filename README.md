@@ -2,4 +2,4 @@ LAB - CLASS 04 Project: garage-band Author: Angelos Kounavis/ worked with Ricard
 
 python3 python_garage_band.py or pytest in your terminal
 
-took 5 hours
+took 4 hours
